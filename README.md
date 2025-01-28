@@ -31,21 +31,21 @@ Before starting, ensure you have:
    const API_KEY = "YOUR-API-KEY";
 4. Replace "YOUR-API-KEY" with your API key from ExchangeRate-API.
 
-## 💻 Step 3: Install and Run**
+## 💻 **Step 3: Install and Run**
 
 1. Open the terminal in VS Code by pressing Ctrl + J (or Cmd + J on macOS).
 
 2. Run the following commands:
-    ``` npm install
+    ``` npm install ```
 
     Installs all required dependencies. 📦
-    ```npm run dev
+    ```npm run dev```
 
     Starts the development server. 🌐
 
 3. Open your browser and click the localhost link shown in the terminal to view your app. 🎉
 
-## 🔍 Testing**
+## 🔍 **Testing**
 
 Test the app by converting different currencies. 💸
 
